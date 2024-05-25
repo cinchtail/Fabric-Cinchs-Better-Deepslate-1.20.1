@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cinchsbetterdeepslate:block/mossy_deepslate_tiles"
+    }
+  }
+}

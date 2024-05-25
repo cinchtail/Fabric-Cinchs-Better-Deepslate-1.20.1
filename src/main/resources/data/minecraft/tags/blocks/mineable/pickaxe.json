@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "cinchsbetterdeepslate:mossy_cobbled_deepslate",
+    "cinchsbetterdeepslate:mossy_cobbled_deepslate_wall",
+    "cinchsbetterdeepslate:mossy_cobbled_deepslate_slab",
+    "cinchsbetterdeepslate:mossy_cobbled_deepslate_stairs",
+    "cinchsbetterdeepslate:mossy_deepslate_bricks",
+    "cinchsbetterdeepslate:mossy_deepslate_brick_wall",
+    "cinchsbetterdeepslate:mossy_deepslate_brick_slab",
+    "cinchsbetterdeepslate:mossy_deepslate_brick_stairs",
+    "cinchsbetterdeepslate:mossy_deepslate_tiles",
+    "cinchsbetterdeepslate:mossy_deepslate_tile_wall",
+    "cinchsbetterdeepslate:mossy_deepslate_tile_slab",
+    "cinchsbetterdeepslate:mossy_deepslate_tile_stairs",
+    "cinchsbetterdeepslate:polished_deepslate_pressure_plate",
+    "cinchsbetterdeepslate:polished_deepslate_button",
+    "cinchsbetterdeepslate:deepslate_wall",
+    "cinchsbetterdeepslate:deepslate_slab",
+    "cinchsbetterdeepslate:deepslate_stairs"
+  ]
+}

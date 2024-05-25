@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cinchsbetterdeepslate:block/mossy_cobbled_deepslate_slab"
+    },
+    "type=double": {
+      "model": "cinchsbetterdeepslate:block/mossy_cobbled_deepslate"
+    },
+    "type=top": {
+      "model": "cinchsbetterdeepslate:block/mossy_cobbled_deepslate_slab_top"
+    }
+  }
+}

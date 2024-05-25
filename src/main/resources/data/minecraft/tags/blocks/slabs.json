@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cinchsbetterdeepslate:mossy_cobbled_deepslate_slab",
+    "cinchsbetterdeepslate:mossy_deepslate_brick_slab",
+    "cinchsbetterdeepslate:mossy_deepslate_tile_slab",
+    "cinchsbetterdeepslate:deepslate_slab"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:blackstone"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "AA ",
+    "AI ",
+    " I "
+  ],
+  "result": {
+    "item": "cinchsbetterdeepslate:blackstone_axe"
+  }
+}
