@@ -27,5 +27,7 @@
   "block.cinchsbetterdeepslate.mossy_deepslate_tile_stairs": "Mossy Deepslate Tile Stairs",
   "block.cinchsbetterdeepslate.deepslate_wall": "Deepslate Wall",
   "block.cinchsbetterdeepslate.deepslate_slab": "Deepslate Slab",
-  "block.cinchsbetterdeepslate.deepslate_stairs": "Deepslate Stairs"
+  "block.cinchsbetterdeepslate.deepslate_stairs": "Deepslate Stairs",
+
+  "itemgroup.betterdeepslate": "Cinch's Better Deepslate Tab"
 }

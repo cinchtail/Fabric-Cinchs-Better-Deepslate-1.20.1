@@ -27,5 +27,7 @@
   "block.cinchsbetterdeepslate.mossy_deepslate_tile_stairs": "生苔深板岩瓦楼梯",
   "block.cinchsbetterdeepslate.deepslate_wall": "深石板墙",
   "block.cinchsbetterdeepslate.deepslate_slab": "深板岩板",
-  "block.cinchsbetterdeepslate.deepslate_stairs": "深石板楼梯"
+  "block.cinchsbetterdeepslate.deepslate_stairs": "深石板楼梯",
+
+  "itemgroup.betterdeepslate": "Cinch 的更好的深板岩标签"
 }
