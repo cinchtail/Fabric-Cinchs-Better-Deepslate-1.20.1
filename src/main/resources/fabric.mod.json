@@ -5,11 +5,11 @@
 	"name": "Cinch's Better Deepslate",
 	"description": "A mod that adds new deepslate blocks, re-does deepslate crafting recipes, and adds new deepslate tools.",
 	"authors": [
-		"Cinchtail!"
+		"Cinchtail"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/cinchs-better-deepslate https://modrinth.com/mod/cinchs-better-deepslate",
+		"sources": "https://github.com/cinchtail/Fabric-Cinchs-Better-Deepslate-1.20.1"
 	},
 	"license": "AAR",
 	"icon": "assets/cinchs-better-deepslate/icon.png",
@@ -22,9 +22,6 @@
 			"net.cinchtail.cinchsbetterdeepslate.CinchsBetterDeepslateClient"
 		]
 	},
-	"mixins": [
-		"cinchsbetterdeepslate.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.20.1",
