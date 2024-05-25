@@ -12,7 +12,6 @@
 		"sources": "https://github.com/cinchtail/Fabric-Cinchs-Better-Deepslate-1.20.1"
 	},
 	"license": "AAR",
-	"icon": "assets/cinchs-better-deepslate/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
