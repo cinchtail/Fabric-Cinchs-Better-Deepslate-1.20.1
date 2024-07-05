@@ -15,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting"
+        "recipe": "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_deepslate"
+      "has_deepslate",
+      "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting"
+      "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting"
     ]
   },
   "sends_telemetry_event": false

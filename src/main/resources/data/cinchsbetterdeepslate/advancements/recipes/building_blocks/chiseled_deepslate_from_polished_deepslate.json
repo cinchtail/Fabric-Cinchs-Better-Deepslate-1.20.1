@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_deepslate": {
+    "has_polished_deepslate": {
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:deepslate"
+              "minecraft:polished_deepslate"
             ]
           }
         ]
@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting"
+        "recipe": "cinchsbetterdeepslate:chiseled_deepslate_from_polished_deepslate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -23,13 +23,12 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_deepslate"
+      "has_polished_deepslate"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting"
+      "cinchsbetterdeepslate:chiseled_deepslate_from_polished_deepslate"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }
