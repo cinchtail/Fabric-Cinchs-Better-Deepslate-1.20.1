@@ -10,7 +10,7 @@ public enum ModToolMaterial implements ToolMaterial {
     BLACKSTONE(1, 131, 4, 1f, 5,
             () -> Ingredient.ofItems(Items.BLACKSTONE)),
 
-    DEEPSLATE(1,251,4,1f,5,
+    DEEPSLATE(1,231,4,1f,5,
             () -> Ingredient.ofItems(Items.COBBLED_DEEPSLATE));
 
     private final int miningLevel;
