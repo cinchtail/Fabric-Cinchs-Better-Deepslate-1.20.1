@@ -3,7 +3,7 @@
 	"id": "cinchsbetterdeepslate",
 	"version": "${version}",
 	"name": "Cinch's Better Deepslate",
-	"description": "A mod that adds new deepslate blocks, re-does deepslate crafting recipes, and adds new deepslate tools.",
+	"description": "A mod that adds new deepslate blocks, re-does deepslate crafting recipes, and adds new deepslate and blackstone tools.",
 	"authors": [
 		"Cinchtail"
 	],
@@ -20,11 +20,8 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.15.11",
-		"minecraft": "~1.20.1",
+		"minecraft": ["1.20","1.20.1","1.20.2"],
 		"java": ">=17",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
